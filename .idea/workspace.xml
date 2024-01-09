@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="day02">
-      <change afterPath="$PROJECT_DIR$/day03/decision_tree.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/Neural_Networks.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据集/Client_Info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/day03/Client_Info.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据集/MNIST/t10k-images.idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/day04/MNIST/t10k-images.idx3-ubyte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据集/MNIST/t10k-labels.idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/day04/MNIST/t10k-labels.idx1-ubyte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据集/MNIST/train-images.idx3-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/day04/MNIST/train-images.idx3-ubyte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据集/MNIST/train-labels.idx1-ubyte" beforeDir="false" afterPath="$PROJECT_DIR$/day04/MNIST/train-labels.idx1-ubyte" afterDir="false" />
-    </list>
+    <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="day02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,8 +52,6 @@
       <recent name="D:\pycharm project\Machine_earning_basics\day02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day04" />
-      <recent name="$PROJECT_DIR$/day03" />
       <recent name="D:\pycharm project\Machine_earning_basics\day02" />
     </key>
   </component>
@@ -78,8 +65,7 @@
       <updated>1704721946149</updated>
       <workItem from="1704721956096" duration="528000" />
       <workItem from="1704722499748" duration="3799000" />
-      <workItem from="1704866528273" duration="8521000" />
-      <workItem from="1704959830106" duration="3184000" />
+      <workItem from="1704776852661" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1704722364221</created>
@@ -89,18 +75,18 @@
       <updated>1704722364221</updated>
     </task>
     <task id="LOCAL-00002" summary="day02">
-      <created>1704785181501</created>
+      <created>1704776888833</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1704785181501</updated>
+      <updated>1704776888833</updated>
     </task>
     <task id="LOCAL-00003" summary="day02">
-      <created>1704792028564</created>
+      <created>1704776903746</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1704792028564</updated>
+      <updated>1704776903746</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
