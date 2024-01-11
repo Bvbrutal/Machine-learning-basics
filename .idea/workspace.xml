@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="day02" />
+    <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="day02">
+      <change afterPath="$PROJECT_DIR$/day03/ridge_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04/Neural_Networks_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/Neural_Networks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day04/Neural_Networks.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,6 +72,8 @@
       <workItem from="1704721956096" duration="528000" />
       <workItem from="1704722499748" duration="3799000" />
       <workItem from="1704776852661" duration="61000" />
+      <workItem from="1704797926765" duration="289000" />
+      <workItem from="1704970674212" duration="3428000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1704722364221</created>
@@ -88,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704776903746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day02">
+      <created>1704797986749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704797986749</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
