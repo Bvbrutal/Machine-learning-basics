@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="day02">
-      <change afterPath="$PROJECT_DIR$/day02/Expand_2.6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03/Expend_5.8.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day04/Expend_6.9.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day06/NaiveBayesClassifier.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/Credit_Card_Sale.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/Ensemble_learning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/Dimensionality_reduction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/semi_supervised_learning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/clustering.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="dayall update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/1.6.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day01/Expand_1.6.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day02/logistic_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day02/logistic_regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/Expend_5.8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day03/Expend_5.8.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day03/decision_tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day03/decision_tree.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704792028564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dayall update">
+      <created>1705392622645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705392622645</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +139,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <MESSAGE value="day02" />
-    <option name="LAST_COMMIT_MESSAGE" value="day02" />
+    <MESSAGE value="dayall update" />
+    <option name="LAST_COMMIT_MESSAGE" value="dayall update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Machine_earning_basics$.coverage" NAME="逻辑回归实践 覆盖结果" MODIFIED="1704727496051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day02" />
