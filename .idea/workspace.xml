@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="dayall update">
+      <change afterPath="$PROJECT_DIR$/day03/decision_tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/decision_tree.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/decision_tree_C54" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03/decision_tree_C54.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day03/Expend_5.8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day03/Expend_5.8.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day03/decision_tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day03/decision_tree.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day04/Neural_Networks_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day04/Neural_Networks_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/Dimensionality_reduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day09/Dimensionality_reduction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09/semi_supervised_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day08/semi_supervised_learning.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,27 +46,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/pycharm project/Machine_earning_basics/day02",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pycharm project/Machine_earning_basics/day02&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\pycharm project\Machine_earning_basics\day02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day09" />
+      <recent name="$PROJECT_DIR$/day08" />
       <recent name="$PROJECT_DIR$/day04" />
       <recent name="$PROJECT_DIR$/day03" />
       <recent name="D:\pycharm project\Machine_earning_basics\day02" />
@@ -77,6 +86,10 @@
       <workItem from="1704722499748" duration="3799000" />
       <workItem from="1704866528273" duration="8521000" />
       <workItem from="1704959830106" duration="3184000" />
+      <workItem from="1705500238167" duration="2643000" />
+      <workItem from="1705558819431" duration="18000" />
+      <workItem from="1705558839555" duration="39000" />
+      <workItem from="1705558905470" duration="9920000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1704722364221</created>
@@ -106,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705392622645</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dayall update">
+      <created>1705500053488</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705500053488</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
