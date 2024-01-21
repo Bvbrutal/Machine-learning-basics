@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0da6ff1c-f216-4ba9-a901-9fa7e5f7e233" name="更改" comment="1.20">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/Linear_Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day01/Linear_Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day03/Expend_5.8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day03/Expend_5.8.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/Expand_1.6.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day04/Expend_6.9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day04/Expend_6.9.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/NaiveBayesClassifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day06/NaiveBayesClassifier.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +73,8 @@
       <workItem from="1704776852661" duration="61000" />
       <workItem from="1704797926765" duration="289000" />
       <workItem from="1704970674212" duration="9192000" />
-      <workItem from="1705666273429" duration="16128000" />
+      <workItem from="1705666273429" duration="16678000" />
+      <workItem from="1705769326423" duration="9173000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1704722364221</created>
@@ -120,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705696901300</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.20">
+      <created>1705727743343</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705727743343</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
